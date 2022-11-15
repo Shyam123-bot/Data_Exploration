@@ -11,12 +11,12 @@ In this analysis we shall study the dataset to understand how are the trends in 
 4.Actionable users
 
 
-Dataset
+# Dataset
 About this file:
 This dataset contains 99903 entries with 15 columns.
 Column names are well defined so that everyone can interpret easily.
 
-Insights
+# Insights
 
 While there are more male user accounts, female users seem to be more active on facebook.
 
@@ -26,7 +26,7 @@ Increase in activities observed in age groups between 51-80
 
 More male users accounts become inactive as the tenure grows
 
-Business Conclusions
+# Business Conclusions
 
 Market more female oriented products
 
