@@ -1,3 +1,5 @@
+# Facebook Data Analysis
+
 This exploratory data analysis reveals findings from a Facebook dataset that include pinpointing users that should receive more attention in order to grow the business.
 With the aid of these insightful data points, Facebook should be able to recognize its useful users and provide the best recommendations to them.
 In this analysis we shall study the dataset to understand how are the trends in the following:
@@ -11,29 +13,29 @@ In this analysis we shall study the dataset to understand how are the trends in 
 4.Actionable users
 
 
-# Dataset
+## Dataset
 About this file:
 This dataset contains 99903 entries with 15 columns.
 Column names are well defined so that everyone can interpret easily.
 
-# Insights
+## Insights
 
-While there are more male user accounts, female users seem to be more active on facebook.
+- While there are more male user accounts, female users seem to be more active on facebook.
 
-User have the tendency of using facebook over mobile at younger age and webpage grows 
+- User have the tendency of using facebook over mobile at younger age and webpage grows 
 
-Increase in activities observed in age groups between 51-80
+- Increase in activities observed in age groups between 51-80
 
-More male users accounts become inactive as the tenure grows
+- More male users accounts become inactive as the tenure grows
 
-# Business Conclusions
+## Business Conclusions
 
-Market more female oriented products
+- Market more female oriented products
 
-Market more products, educational materials for teenagers
+- Market more products, educational materials for teenagers
 
-User interface of facebook can be more mobile friendly so that more users can use it on mobile phones
+- User interface of facebook can be more mobile friendly so that more users can use it on mobile phones
 
-Monitor activities of users between age groups of 51-80 years and market products accordingly
+- Monitor activities of users between age groups of 51-80 years and market products accordingly
 
-Some schemes like long term association points and redeemable purchasing point can be introduced to increase the retention ratio.
+- Some schemes like long term association points and redeemable purchasing point can be introduced to increase the retention ratio.
