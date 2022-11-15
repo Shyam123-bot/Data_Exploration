@@ -24,4 +24,4 @@ There are 26 genres so it is a total of 232,725 tracks.
 ## Insights
 
 -50 most Loudest songs
-![image](https://user-images.githubusercontent.com/61462986/201830897-e68f87bd-2add-4109-bb9d-163a6ea1e899.png =100x100)
+![image](https://user-images.githubusercontent.com/61462986/201830897-e68f87bd-2add-4109-bb9d-163a6ea1e899.png | width=100)
