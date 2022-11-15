@@ -14,23 +14,28 @@ In this analysis we shall study the dataset to understand how are the trends in 
 
 
 ## Dataset
-About this file:
-This dataset contains 99903 entries with 15 columns.
+
+This dataset contains 99903 entries with 15 columns and is downloaded from Kaggle.
+
 Column names are well defined so that everyone can interpret easily.
 
 ## Insights
 
+- People in the age group 21-30 are most on Facebook.
+
 - While there are more male user accounts, female users seem to be more active on facebook.
 
-- User have the tendency of using facebook over mobile at younger age and webpage grows 
-
-- Increase in activities observed in age groups between 51-80
+- Although facebook started with web applications, its mobile version is more popular now especially among younger generation.
 
 - More male users accounts become inactive as the tenure grows
 
 ## Business Conclusions
 
 - Market more female oriented products
+
+- As the male user accounts are high but not so active comparitively, improve the user experience for males by advertising male specific products or by introducing games or other interesting activies
+
+- Reward people with high activity and post engagement to increase the popularity of the platform by gaining new users.
 
 - Market more products, educational materials for teenagers
 
