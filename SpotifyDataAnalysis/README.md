@@ -18,8 +18,8 @@ manyuy more.
 
 ## Dataset
 
-I just wanted to analyze the behavior between valence and all the measures that Spotify API gives so I got approximately 10,000 per genre. 
-There are 26 genres so it is a total of 232,725 tracks.
+tracks.csv dataset contains 586672 tracks with its features like name, duration, ID, artists , loudness, acousticness, speechiness etc.
+SpotifyFeatures.csv datasets contains 232726 tracks based on their Genres
 
 ## Insights
 
