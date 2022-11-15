@@ -45,9 +45,11 @@ There are 26 genres so it is a total of 232,725 tracks.
 ![image](https://user-images.githubusercontent.com/61462986/201832072-c4c95ebe-8e94-49b0-b399-2a19aa534aa1.png)
 
 -Year vs Duration Line Graph
+
 ![image](https://user-images.githubusercontent.com/61462986/201832161-e62c0405-c44d-4152-99aa-68251cd3cf6d.png)
 
 -Duration of songs in different genres
+
 ![image](https://user-images.githubusercontent.com/61462986/201832272-bdf586a7-36e6-4615-97b1-d219165648f6.png)
 
 Top five genres in popularity
